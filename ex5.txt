@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     1  git --version
     2  python --version
     3  python3 --version
@@ -283,3 +284,6 @@
   283  ls -R a
   284  rm -r a
   285  command history | less > ex5.txt
+=======
+
+>>>>>>> f9b00d688d5e5e8b0750bc90b8549f4b0df5c08f
