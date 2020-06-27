@@ -58,7 +58,11 @@
    57  git config --global user.charltonmurphy
    58  git config --global email.charltonmurphy@yahoo.com
    59  git config --list
+<<<<<<< HEAD
    60  git 
+=======
+   60  git ls
+>>>>>>> 04087b3fd9b2656d521d7fc761a9fa7f7c88e7e5
    61  git status
    62  git add ex2.txt
    63  git status
