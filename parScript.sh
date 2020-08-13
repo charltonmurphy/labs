@@ -1,5 +1,6 @@
 #!/bin/bash
 
+open ex.json
 #output=$(grep "ID" ex.json | cut -d: -f2)
 #echo "The value of ID is: "$output
 echo -n "Please type the key of the value you want: "; read x 
