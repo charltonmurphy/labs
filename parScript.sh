@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 
 
@@ -17,3 +18,6 @@ else
 	echo "$file does not exist!" > $outFile
 	exit
 fi
+=======
+
+>>>>>>> bc80e50aa5eaaafbe2fd9fcdf1331cac4f0da01d
