@@ -1,0 +1,4 @@
+sudo apt install git
+sudo apt install httpd
+sudo apt install php
+sudo apt install mysql
